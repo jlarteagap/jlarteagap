@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jlarteagap
+- 👋 Hi, I’m Jorge Arteaga @jlarteagap from Bolivia
 - 👀 I’m interested in develop awesomeness Apps in React js
 - 🌱 I’m currently learning GraphQL, MongoDB, Git
-- 💞️ I’m looking to collaborate on Starups
+- 💞️ I’m looking to collaborate on Startups
 - 📫 How to reach me on Twitter @jlarteagap
 
 <!---
